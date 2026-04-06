@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+client_secrets.json
+token.pickle
+used_ids.json
+output/
+assets/backgrounds/*.mp4
